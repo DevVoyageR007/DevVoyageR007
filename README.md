@@ -17,7 +17,7 @@ Skills: C / JS  / Python / HTML
 - 👯 I’m looking to collaborate on gitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: santanuk745@gmail.com 
-- 😄 Pronouns: https://drive.google.com/file/d/1MU19otNf75x_Y7QBbEMv5mPlKzZ90xXc/view?usp=sharing 
+- 📄 Know about my experiences: https://drive.google.com/file/d/1MU19otNf75x_Y7QBbEMv5mPlKzZ90xXc/view?usp=sharing 
 - ⚡ Fun fact: I think I am funny 
 
 
