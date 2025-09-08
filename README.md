@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQF-Dl7RCt1NVQ/profile-displaybackgroundimage-shrink_350_1400/0/1712819383766?e=1718236800&v=beta&t=zx979IK32yyYJ-GPMXGuJGHvzCoURT219s7MysVq3-g)
+![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF-Dl7RCt1NVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712819383766?e=1759968000&v=beta&t=LzQSLaJYhhXT99VHtx8PvG9GEYsiwNb_m16LY4ZnFeM)
 
 ## Hi 👋, I'm  Shantanu Kundu
 #### Web Developer
