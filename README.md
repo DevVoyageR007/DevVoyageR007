@@ -1,4 +1,4 @@
-![Web Developer]([https://drive.google.com/file/d/1bZlk0ZWOKcODp16CixCA9G1HY4KriXtU/view?usp=sharing](https://drive.google.com/file/d/1bZlk0ZWOKcODp16CixCA9G1HY4KriXtU/view))
+![Web Developer](https://drive.google.com/uc?export=view&id=1bZlk0ZWOKcODp16CixCA9G1HY4KriXtU)
 
 ## Hi 👋, I'm  Shantanu Kundu
 #### Web Developer
