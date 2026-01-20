@@ -7,9 +7,10 @@
 <h3 align="center">Django & Python Developer | Full Stack Web Apps | NLP + Computer Vision (Multimodal AI)</h3>
 
 <p align="center">
-  <a href="mailto:santanuk745@gmail.com">Email</a> •
+ • <a href="mailto:santanuk745@gmail.com">Email</a> 
   <a href="https://shantanukunduportfolio.netlify.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/shantanu-kundu-ab093022b/" target="_blank">LinkedIn</a> •
+  
 </p>
 
 ---
