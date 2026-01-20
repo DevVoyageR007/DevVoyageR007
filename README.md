@@ -1,33 +1,83 @@
-![Web Developer](https://drive.google.com/uc?export=view&id=1bZlk0ZWOKcODp16CixCA9G1HY4KriXtU)
+<!-- Banner -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1bZlk0ZWOKcODp16CixCA9G1HY4KriXtU" alt="Shantanu Kundu - Banner" />
+</p>
 
-## Hi 👋, I'm  Shantanu Kundu
-#### Web Developer
+<h1 align="center">Hi, I'm Shantanu Kundu</h1>
+<h3 align="center">Django & Python Developer | Full Stack Web Apps | NLP + Computer Vision (Multimodal AI)</h3>
 
-💻 As a passionate web developer, I thrive on turning ideas into digital reality through coding. With a keen eye for design and a love for clean, efficient code, I specialize in crafting engaging and user-friendly web experiences.
+<p align="center">
+  <a href="mailto:santanuk745@gmail.com">Email</a> •
+  <a href="https://shantanukunduportfolio.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/shantanu-kundu-ab093022b/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/DevVoyageR007" target="_blank">GitHub</a>
+</p>
 
-🌐 My journey in web development began with HTML, and JavaScript, and it has since expanded to encompass a wide array of technologies . Whether it's building responsive websites, developing interactive web applications, or optimizing performance, I enjoy diving into the intricacies of web development to deliver high-quality solutions.
+---
 
-🚀 Constantly learning and adapting to the ever-evolving tech landscape, I'm committed to staying up-to-date with the latest trends and best practices in web development. Collaboration and open-source contributions are also integral parts of my ethos, as I believe in the power of community-driven innovation to push the boundaries of what's possible on the web.
+## About Me
 
-🔧 When I'm not coding, you can find me exploring new technologies, or tinkering with side projects. Let's connect and build something amazing together!
+I’m a **Django-focused Full Stack Developer** from Bangladesh, passionate about building **scalable, clean, and maintainable** web applications.  
+I enjoy turning ideas into real-world products through structured backend development, modern UI design, and performance optimization.
 
-Skills: C / JS  / Python / HTML 
+Alongside web development, I explore **Machine Learning, NLP, and Computer Vision**, particularly research involving **multimodal text–image understanding** and transformer-based approaches.
 
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on gitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: santanuk745@gmail.com 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1MU19otNf75x_Y7QBbEMv5mPlKzZ90xXc/view?usp=sharing 
-- ⚡ Fun fact: I think I am funny 
+---
 
+## What I Do
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevVoyageR007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shantanu-kundu-ab093022b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shantanu.kundu251217?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/shantanu_kundu_sk/?igsh=MWZjb2xqMGxocWY3eA%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/diu.edu.bd/santanu-kundu/about)  
+- **Backend Engineering**: Django, REST APIs, authentication, database design
+- **Frontend Development**: Responsive UI with Tailwind CSS / Bootstrap + JavaScript
+- **Project Delivery**: End-to-end product development (UI → backend → deployment)
+- **Research & AI**: NLP + Vision projects, multimodal learning, dataset-driven experimentation
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVoyageR007&show_icons=true)  
+## Tech Stack
 
-![GitHub metrics](https://metrics.lecoq.io/DevVoyageR007)  
+**Languages:** Python • JavaScript • C  
+**Backend:** Django • Django REST Framework  
+**Frontend:** HTML • CSS • Tailwind CSS • Bootstrap  
+**Database:** MySQL • SQLite  
+**AI/Research:** Machine Learning • Deep Learning • NLP • Computer Vision  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DevVoyageR007)  
+---
 
+## Featured Projects
+
+### PixWasher — AI Background Removal Web App
+- Image background removal with a clean UI and practical workflow
+- Built for real-world usability and smooth user experience
+
+### QR Studio — Custom QR Code Generator
+- Custom QR generation with **live preview**
+- Export support: **PNG / SVG / PDF**
+- Clean and interactive frontend experience
+
+---
+
+## Current Focus
+
+- Building more production-grade **Django REST APIs**
+- Improving frontend UX with modern design systems
+- Exploring transformer-based **multimodal AI (text + image)** research
+
+---
+
+## Let's Connect
+
+- Email: **santanuk745@gmail.com**
+- Portfolio: https://shantanukunduportfolio.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/shantanu-kundu-ab093022b/
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevVoyageR007&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DevVoyageR007&hide_border=true" alt="GitHub streak" />
+</p>
