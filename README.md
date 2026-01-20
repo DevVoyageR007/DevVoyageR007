@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1bZlk0ZWOKcODp16CixCA9G1HY4KriXtU" alt="Shantanu Kundu - Banner" />
+  <img src="https://drive.google.com/file/d/1AgDYk73kuws1bV0vX4xEK2ujKcJByxvk/view?usp=sharing" alt="Shantanu Kundu - Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Shantanu Kundu</h1>
