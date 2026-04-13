@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Full Stack Developer from Bangladesh**, specializing in **Django and React**.  
 I focus on building **scalable, maintainable, and production-ready web applications** with clean architecture and efficient performance.
@@ -23,7 +23,7 @@ Beyond web development, I actively explore **Machine Learning**, especially **NL
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - **Backend Engineering**
   - Django, Django REST Framework
@@ -39,7 +39,7 @@ Beyond web development, I actively explore **Machine Learning**, especially **NL
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 Python • JavaScript • C  
@@ -58,7 +58,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🔹 PixWasher — AI Background Removal Web App
 - AI-powered background removal system
@@ -74,7 +74,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building **production-grade REST APIs** with Django  
 - Advancing **React UI/UX design skills**  
@@ -83,7 +83,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 📧 Email: **santanuk745@gmail.com**  
 - 🌐 Portfolio: https://shantanukunduportfolio.netlify.app/  
@@ -91,14 +91,8 @@ Machine Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevVoyageR007&theme=tokyonight" />
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVoyageR007&theme=tokyo-night" />
 </p>
