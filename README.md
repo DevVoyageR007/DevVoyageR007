@@ -58,22 +58,6 @@ Machine Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
-## Featured Projects
-
-### 🔹 PixWasher — AI Background Removal Web App
-- AI-powered background removal system
-- Clean and intuitive UI for real-world usage
-- Focused on performance and usability
-
----
-
-### 🔹 QR Studio — Custom QR Code Generator
-- Dynamic QR code generation with **live preview**
-- Export formats: **PNG / SVG / PDF**
-- Interactive and user-friendly frontend
-
----
-
 ## Current Focus
 
 - Building **production-grade REST APIs** with Django  
